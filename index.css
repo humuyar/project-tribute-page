@@ -22,3 +22,10 @@ main {
   border-radius: 2%;
   background: #a9b3b4af;
 }
+
+img {
+  max-width: 60%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
